@@ -1,0 +1,26 @@
+{
+   "token": "OTI3NDc5ODg5MTY1MTg5MTUx.YdK09Q.EIqypxS3AVdlr86oOPmo05XgT9k",
+   "prefix": ",",
+   "ownerIDS": [
+      "558953252687970304"
+   ],
+   "status": {
+      "text": "{prefix}help | played {songsplayed} Songs on {guildcount} Guilds",
+      "text2": "",
+      "type": "PLAYING",
+      "url": ""
+   },
+   "clientsettings": {
+      "nodes": [
+         {
+            "host": "lavalink.devin-dev.xyz",
+            "port": 443,
+            "password": "lava123"
+         }
+      ]
+   },
+   "spotify": {
+      "clientID": "6c7c1d2b4744449899c6bb1eb26782db",
+      "clientSecret": "5f9544d2607f4f6ea84d94024e67663a"
+   }
+}
